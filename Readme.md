@@ -7,4 +7,4 @@ I'm a full stack developer from Nigeria.
 # Hi, I'm Ofoh Ogheneruona Wealth! 👋
 You can view the below
 
-- [HERE] (https://github.com/OfohRuona96/week7_Task.git)
+- [HERE] (https://OfohRuona96.github.io/week7_Task/)
